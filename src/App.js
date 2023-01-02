@@ -1,5 +1,4 @@
 import Nav from './components/nav.js';
-
 let boxStyle = {
   display: 'flex',
   justifyContent: 'center'
