@@ -36,7 +36,7 @@ function renderPage(req) {
 }
 
 function Nav() {
-    window.location.href = '/#about'
+    window.location.href = '/react-portfolio/#about'
     const [currPage, setPage] = useState(`about`);
     return (
         <div style={boxStyle}>
