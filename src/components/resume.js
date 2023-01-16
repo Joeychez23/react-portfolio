@@ -24,7 +24,7 @@ function Resume() {
         <li>HTML</li>
         <li>CSS</li>
       </ul>
-      <a className="hov-opc" href='images/_resume.pdf' target="_blank">Download</a>
+      <a className="hov-opc" href='resume.pdf' target="_blank">Download</a>
     </div>
   );
 }
